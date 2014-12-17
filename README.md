@@ -1,4 +1,4 @@
 Hello-World
 ===========
 
-Another hello world thingy to learn hot GIT / GITHUB works !
+Another hello world thingy to learn how GIT / GITHUB works !
